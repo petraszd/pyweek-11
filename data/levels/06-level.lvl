@@ -1,0 +1,11 @@
+ball 60 550
+segment 40 480 230 390
+segment 250 480 440 390
+segment 460 480 650 390
+segment 730 430 680 290
+segment 680 290 0 200
+segment 790 590 790 100
+force 155 427 40 17
+force 365 427 40 17
+force 575 427 40 17
+basket 320 20

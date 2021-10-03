@@ -1,0 +1,5 @@
+option no_mover
+ball 218 580
+segment 200 600 200 200
+force 205 380 0 1
+basket 553 178
